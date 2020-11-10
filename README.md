@@ -1,4 +1,4 @@
-# yt-devmeetup-vue
+# Fin-Solution Frontend with Vue
 
 A dev meetup application built with Vue + Vuetify + Firebase.
 
